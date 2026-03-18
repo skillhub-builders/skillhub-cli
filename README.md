@@ -1,7 +1,6 @@
-@ -0,0 +1,183 @@
 # skillhub-cli
 
-CLI for the [Skillhub](https://skillhub.dev) AI skills marketplace. Install `SKILL.md` packages directly into your AI coding environment.
+CLI for the [Skillhub](https://skillhub.builders/) AI skills marketplace. Install `SKILL.md` packages directly into your AI coding environment.
 
 ## Install
 
